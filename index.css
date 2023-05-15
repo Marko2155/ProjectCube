@@ -1,0 +1,15 @@
+.header {
+    background-color:blue;
+}
+.headerbar {
+    background-color:black;
+    display: sticky;
+}
+
+body{
+    background-color: darkblue;
+}
+
+.updatebox  {
+    background-color: gray;
+}
